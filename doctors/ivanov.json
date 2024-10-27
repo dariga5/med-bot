@@ -1,0 +1,254 @@
+{
+   "plan": [
+    {
+      "day": "28-10-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "29-10-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "30-10-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "31-10-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "01-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "02-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "03-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "04-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "05-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    },
+    {
+      "day": "06-11-2024",
+      "timetable": [
+        {
+          "time": "11:00",
+          "state": false
+        },
+        {
+          "time": "12:00",
+          "state": false
+        },
+        {
+          "time": "13:00",
+          "state": false
+        },
+        {
+          "time": "14:00",
+          "state": false
+        },
+        {
+          "time": "15:00",
+          "state": false
+        }
+      ]
+    }
+  ]
+}
