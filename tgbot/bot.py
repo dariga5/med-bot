@@ -15,9 +15,6 @@ client = {
 
 }
 
-
-doctors = logic.GetPlanAllDoctor()
-
 doctors_keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
 
 ivn_btn = types.KeyboardButton("Иванов И.И") 
@@ -42,7 +39,7 @@ about_btn = types.KeyboardButton("Об организации")
 doctor_btn = types.KeyboardButton("Записаться на прием")
 call_operator_btn = types.KeyboardButton("Позвонить опрератору")
 
-company_keyboard.add(about_btn, doctor_btn, call_operator_btn)
+company_keyboard.add(doctor_btn)
 
 def BotInit(token: str):    
     if token:
@@ -122,13 +119,12 @@ def BotInit(token: str):
 
         if message.text in doctors_name:
             client[message.chat.id]['state'] = 'choose'
-            
+        
             name = doctors_name[message.text]
-            
-            
+                        
             client[message.chat.id]['target_doctor'] = name
                     
-            plan = doctors[name]['plan']
+            plan = logic.GetPlanAllDoctor()[name]['plan']
             
             days_keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
 
