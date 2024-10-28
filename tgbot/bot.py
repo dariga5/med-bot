@@ -89,7 +89,7 @@ def BotInit(token: str):
         timetable_keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
         
 
-        for day in doctors[name]['plan']:
+        for day in logic.GetPlanAllDoctor()[name]['plan']:
             if day['day'] == date:
                 for item in day['timetable']:
                     if item['state'] == False:
